@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Audio files — hosted on Cloudinary, not in repo
+public/audio/*.wav
+public/audio/*.mp3
+public/audio/*.aiff
+public/audio/*.flac
